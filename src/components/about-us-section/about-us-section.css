@@ -1,0 +1,122 @@
+.about-us-section{
+    position:relative;
+    top:-20px;
+    height:110vh;
+    width:auto;
+    overflow: hidden;
+    background-color:#fff;
+}
+
+.about-heading-container{
+    position:relative;
+    width:auto;
+    text-align:center;
+    margin:0 auto;
+    z-index:10;
+}
+
+.about-bg-opaque-heading{
+    position:relative;
+    font-family:"Poppins", sans-serif;
+    font-weight:700;
+    color:rgba(223, 223, 223, 0.322);
+    font-size:200px;
+}
+
+.about-container{
+    display:grid;
+    place-items:center;
+    height:100px;
+    width:100%;
+}
+
+.about-inner-container{
+    height:100px;
+    width:80%;
+}
+
+.about-inner-container-left{
+    display:inline-block;
+    height:inherit;
+    width:50%;
+    vertical-align:top;
+}
+
+.carousel-container{
+    position:relative;
+    top:-40px;
+    left:50px;
+}
+
+.about-inner-container-right{
+    display:inline-block;
+    height:inherit;
+    width:50%;
+    vertical-align:top;
+}
+
+.about-right-card{
+    position:relative;
+    top:-120px;
+    height:500px;
+    width:400px;
+    background-color:#FFF;
+    z-index:12;
+    border-radius:10px;
+    padding:20px;
+    box-shadow: -3px -3px 10px 2px rgba(132, 132, 132, 0.1), 3px 3px 10px 2px rgba(132, 132, 132, 0.1);
+}
+
+.about-card-heading{
+    display:block;
+    font-family:"Poppins", sans-serif;
+    font-family:500;
+    font-size:36px;
+    line-height:50px;
+    color:#000;
+    text-align:center;
+    margin-bottom:20px;
+    margin-top:10px;
+}
+
+.about-card-sub-heading{
+    display:block;
+    font-family:"Montserrat", sans-serif;
+    font-family:600;
+    font-size:18px;
+    line-height:30px;
+    color:#000;
+    text-align:center;
+    margin-bottom:10px;
+}
+
+.about-card-content{
+    display:block;
+    font-family:"Montserrat", sans-serif;
+    font-family:500;
+    font-size:17px;
+    line-height:40px;
+    color:#000;
+    text-align:center;
+    padding:5px;
+}
+
+.more-link-container{
+    display:flex;
+    height:30px;
+    width:100%;
+    margin-top:10px;
+    justify-content: flex-end;
+}
+
+.more-link{
+font-family: "Poppins", sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 50px;
+letter-spacing: 0.05em;
+color: #000000;
+text-decoration:none;
+}
+

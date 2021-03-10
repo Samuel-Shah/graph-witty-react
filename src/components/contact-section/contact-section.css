@@ -1,0 +1,68 @@
+.contact-section{
+    height:80vh;
+    position:relative;
+    top:-20px;
+    width:auto;
+    overflow: hidden;
+    background-color:#fff;
+}
+
+.heading-container{
+    position:relative;
+    width:auto;
+    text-align:center;
+    margin:0 auto;
+    top:20%;
+    z-index:10;
+}
+
+.bg-opaque-heading{
+    position:relative;
+    font-family:"Poppins", sans-serif;
+    font-weight:700;
+    color:rgba(223, 223, 223, 0.322);
+    font-size:200px;
+}
+
+.section-content{
+    position:relative;
+    width:50%;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:10px;
+    padding-right:10px;
+    z-index:11;
+    left:20%;
+    top:-13%;
+}
+
+.content-container-sec{
+    height:50px;
+    width:auto;
+    padding:10px;
+}
+
+.contact-content{
+    font-family:"Montserrat", sans-serif;
+    font-size:24px;
+    font-weight:400;
+    color:#000;
+    letter-spacing:1px;
+    line-height:45px;
+}
+
+.contact-section-title-container{
+    position:absolute;
+    padding:10px;
+    height:auto;
+    width:40%;
+    transform:rotate(-90deg) translateY(-290%) translateX(50%);
+    left:100px;
+}
+
+.contact-section-title{
+    font-family:"Poppins", sans-serif;
+    font-weight:500;
+    font-size:45px;
+    letter-spacing:1px;
+}

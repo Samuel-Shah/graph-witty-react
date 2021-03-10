@@ -1,0 +1,1378 @@
+@media only screen and (min-width:320px){
+    .campaign{
+        background-size:75px 75px;
+        background-color:#1F1F47;
+        background-image:
+        linear-gradient(to right,#333 1px, transparent 1px),
+        linear-gradient(to bottom,#333 1px, transparent 1px);
+    }
+    
+    .campaign-main-copy{
+        display:block;
+        width:300px;
+        font-size:20px;
+        color:#fff;
+        padding-top:100px;
+        margin:0 auto 0 auto;
+        letter-spacing: 1px;
+        font-family: 'RocknRoll One', sans-serif;
+        text-align: center;
+    }
+
+    .campaign-main-copy-evolving{
+        color:#FA685E;
+    }
+    
+    .campaign-section1{
+        width:275px;
+        margin:40px auto 0px auto;
+    }
+    
+    .campaign-section1-text{
+        color:#000;
+        border:1px solid #fff;
+        display:inline-block;
+        width:190px;
+        padding:20px 40px;
+        border-radius: 25px;
+        vertical-align: top;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+        font-size:20px;
+        background-color: #fff;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-register-button{
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:7px 14px;
+        text-decoration: none;
+        display:block;
+        width:140px;
+        text-align: center;
+        margin: 10px auto 0 auto;
+        font-family: 'RocknRoll One', sans-serif;
+    }
+    
+    .campaign-section1-img{
+        position: relative;
+        top:70px;
+        display:none;
+        width:350px;
+        margin-left:50px;
+    }
+    
+    .campaign-section2{
+        margin:100px auto 100px auto;
+        width:300px;
+        text-align: center;
+    }
+    
+    .campaign-section1-text1{
+        color:#000;
+        font-size:16px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section1-text2{
+        color:#FA685E;
+        font-size:20px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    .campaign-section2-text1{
+        color:#fff;
+        font-family:'Raleway', sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-section3{
+        margin:0px auto 100px auto;
+        width:290px;
+    }
+    
+    .campaign-section3-card{
+        display:block;
+        margin-right:50px;
+        background-color:#fff;
+        width:190px;
+        text-align: center;
+        padding:25px 50px;
+        height:150px;
+        border-radius:15px;
+        margin-bottom:50px;
+    }
+    
+    .campaign-section3-card-title{
+        display:block;
+        font-size:20px;
+        font-family:"RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section3-card-text{
+        display:block;
+        font-size:16px;
+        font-family:"Raleway", sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-register-title{
+        color:#fff;
+        font-size:25px;
+        font-family: "RocknRoll One", sans-serif;
+        display:block;
+        width:190px;
+        margin:0 auto 0 auto;
+        
+    }
+    .campaign-section4{
+        background-color:#fff;
+        width:190px;
+        padding:40px 40px;
+        border-radius: 25px;
+        text-align: center;
+        margin:20px auto 0 auto;
+    }
+    
+    .campaign-form-field{
+        display:block;
+        padding:10px 20px;
+        font-size:16px;
+        width:155px;
+        border-radius:10px;
+        margin:0 auto 20px auto;
+        font-family: "RocknRoll One", sans-serif;
+        outline: none;
+    }
+    
+    .campaign-form-button{
+        display:block;
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:10px 20px;
+        text-decoration: none;
+        display:block;
+        font-size:16px;
+        width:100px;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin:20px auto 0 auto;
+        text-align: center;
+        width:150px;
+        outline:none;
+    }
+    
+    .campaign-section5{
+        background-color:#fff;
+        width:190px;
+        margin:50px auto 100px auto;
+        border-radius: 25px;
+    }
+    
+    .campaign-logo-container{
+        width:160px;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-gw-logo{
+        width:80px;
+        display:inline-block;
+    }
+    
+    .campaign-mm-logo{
+        width:70px;
+        display:inline-block;
+        position: relative;
+        top:-30px;
+    }
+
+    .campaign-section6{
+        width:290px;
+        margin:0 auto 100px auto;
+    }
+
+    .campaign-section6-card{
+        background-color: #fff;
+        display:block;
+        width:210px;
+        height:340px;
+        margin-bottom:50px;
+        padding:20px 40px;
+        font-size:16px;
+        border-radius: 25px;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+
+    .campaign-section6-card-title{
+        display:block;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin-bottom:10px;
+    }
+
+    .campaign-section6-card-text{
+        font-family: 'Raleway',sans-serif;
+    }
+
+}
+@media only screen and (min-width:375px){
+    .campaign{
+        background-size:75px 75px;
+        background-color:#1F1F47;
+        background-image:
+        linear-gradient(to right,#333 1px, transparent 1px),
+        linear-gradient(to bottom,#333 1px, transparent 1px);
+    }
+    
+    .campaign-main-copy{
+        display:block;
+        width:350px;
+        font-size:25px;
+        color:#fff;
+        padding-top:100px;
+        margin:0 auto 0 auto;
+        letter-spacing: 1px;
+        font-family: 'RocknRoll One', sans-serif;
+        text-align: center;
+    }
+    .campaign-main-copy-evolving{
+        color:#FA685E;
+    }
+    
+    .campaign-section1{
+        width:320px;
+        margin:40px auto 0px auto;
+    }
+    
+    .campaign-section1-text{
+        color:#000;
+        border:1px solid #fff;
+        display:inline-block;
+        width:240px;
+        padding:20px 40px;
+        border-radius: 25px;
+        vertical-align: top;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+        font-size:20px;
+        background-color: #fff;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-register-button{
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:7px 14px;
+        text-decoration: none;
+        display:block;
+        width:140px;
+        text-align: center;
+        margin-top: 20px auto 0 auto;
+        font-family: 'RocknRoll One', sans-serif;
+    }
+
+    
+    .campaign-section1-img{
+        position: relative;
+        top:70px;
+        display:none;
+        width:350px;
+        margin-left:50px;
+    }
+    
+    .campaign-section2{
+        margin:100px auto 100px auto;
+        width:300px;
+        text-align: center;
+    }
+    
+    .campaign-section1-text1{
+        color:#000;
+        font-size:16px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section1-text2{
+        color:#FA685E;
+        font-size:20px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    .campaign-section2-text1{
+        color:#fff;
+        font-size:20px;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-section3{
+        margin:0px auto 100px auto;
+        width:340px;
+
+    }
+    
+    .campaign-section3-card{
+        display:block;
+        margin-right:50px;
+        background-color:#fff;
+        width:240px;
+        text-align: center;
+        padding:25px 50px;
+        height:150px;
+        border-radius:15px;
+        margin-bottom:50px;
+    }
+    
+    .campaign-section3-card-title{
+        display:block;
+        font-size:22px;
+        font-family:"RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section3-card-text{
+        display:block;
+        font-size:17px;
+        font-family:"Raleway", sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-register-title{
+        color:#fff;
+        font-size:25px;
+        font-family: "RocknRoll One", sans-serif;
+        display:block;
+        width:190px;
+        margin:0 auto 0 auto;
+        
+    }
+    .campaign-section4{
+        background-color:#fff;
+        width:240px;
+        padding:40px 40px;
+        border-radius: 25px;
+        text-align: center;
+        margin:20px auto 0 auto;
+    }
+    
+    .campaign-form-field{
+        display:block;
+        padding:10px 20px;
+        font-size:16px;
+        width:200px;
+        border-radius:10px;
+        margin:0 auto 20px auto;
+        font-family: "RocknRoll One", sans-serif;
+        outline: none;
+    }
+    
+    .campaign-form-button{
+        display:block;
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:10px 20px;
+        text-decoration: none;
+        display:block;
+        font-size:16px;
+        width:100px;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin:20px auto 0 auto;
+        text-align: center;
+        width:150px;
+        outline:none;
+    }
+    
+    .campaign-section5{
+        background-color:#fff;
+        width:190px;
+        margin:50px auto 100px auto;
+        border-radius: 25px;
+    }
+    
+    .campaign-logo-container{
+        width:160px;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-gw-logo{
+        width:80px;
+        display:inline-block;
+    }
+    
+    .campaign-mm-logo{
+        width:70px;
+        display:inline-block;
+        position: relative;
+        top:-30px;
+    }
+
+    .campaign-section6{
+        width:340px;
+        margin:0 auto 100px auto;
+    }
+
+    .campaign-section6-card{
+        background-color: #fff;
+        display:block;
+        width:260px;
+        height:290px;
+        margin-bottom:50px;
+        padding:20px 40px;
+        font-size:17px;
+        border-radius: 25px;
+        letter-spacing: 1px;
+    }
+
+    .campaign-section6-card-title{
+        display:block;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin-bottom:10px;
+    }
+
+    .campaign-section6-card-text{
+        font-family: 'Raleway',sans-serif;
+    }
+
+}
+@media only screen and (min-width:425px){
+    .campaign{
+        background-size:75px 75px;
+        background-color:#1F1F47;
+        background-image:
+        linear-gradient(to right,#333 1px, transparent 1px),
+        linear-gradient(to bottom,#333 1px, transparent 1px);
+    }
+    
+    .campaign-main-copy{
+        display:block;
+        width:350px;
+        font-size:25px;
+        color:#fff;
+        padding-top:100px;
+        margin:0 auto 0 auto;
+        letter-spacing: 1px;
+        font-family: 'RocknRoll One', sans-serif;
+        text-align: center;
+    }
+
+    .campaign-main-copy-evolving{
+        color:#FA685E;
+    }
+    
+    .campaign-section1{
+        width:360px;
+        margin:40px auto 0px auto;
+    }
+    
+    .campaign-section1-text{
+        color:#000;
+        border:1px solid #fff;
+        display:inline-block;
+        width:280px;
+        padding:20px 40px;
+        border-radius: 25px;
+        vertical-align: top;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+        font-size:20px;
+        background-color: #fff;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-register-button{
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:7px 14px;
+        text-decoration: none;
+        display:block;
+        width:140px;
+        text-align: center;
+        margin-top: 20px auto 0 auto;
+        font-family: 'RocknRoll One', sans-serif;
+    }
+
+    
+    .campaign-section1-img{
+        position: relative;
+        top:70px;
+        display:none;
+        width:350px;
+        margin-left:50px;
+    }
+    
+    .campaign-section2{
+        margin:100px auto 100px auto;
+        width:380px;
+        text-align: center;
+    }
+    
+    .campaign-section1-text1{
+        color:#000;
+        font-size:16px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section1-text2{
+        color:#FA685E;
+        font-size:20px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    .campaign-section2-text1{
+        color:#fff;
+        font-size:20px;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-section3{
+        margin:0px auto 100px auto;
+        width:370px;
+
+    }
+    
+    .campaign-section3-card{
+        display:block;
+        margin-right:50px;
+        background-color:#fff;
+        width:270px;
+        text-align: center;
+        padding:25px 50px;
+        height:150px;
+        border-radius:15px;
+        margin-bottom:50px;
+    }
+    
+    .campaign-section3-card-title{
+        display:block;
+        font-size:22px;
+        font-family:"RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section3-card-text{
+        display:block;
+        font-size:18px;
+        font-family:"Raleway", sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-register-title{
+        color:#fff;
+        font-size:25px;
+        font-family: "RocknRoll One", sans-serif;
+        display:block;
+        width:190px;
+        margin:0 auto 0 auto;
+        
+    }
+    .campaign-section4{
+        background-color:#fff;
+        width:300px;
+        padding:40px 40px;
+        border-radius: 25px;
+        text-align: center;
+        margin:20px auto 0 auto;
+    }
+    
+    .campaign-form-field{
+        display:block;
+        padding:10px 20px;
+        font-size:16px;
+        width:260px;
+        border-radius:10px;
+        margin:0 auto 20px auto;
+        font-family: "RocknRoll One", sans-serif;
+        outline: none;
+    }
+    
+    .campaign-form-button{
+        display:block;
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:10px 20px;
+        text-decoration: none;
+        display:block;
+        font-size:16px;
+        width:100px;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin:20px auto 0 auto;
+        text-align: center;
+        width:150px;
+        outline:none;
+    }
+    
+    .campaign-section5{
+        background-color:#fff;
+        width:300px;
+        margin:50px auto 100px auto;
+        border-radius: 25px;
+    }
+    
+    .campaign-logo-container{
+        width:200px;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-gw-logo{
+        width:90px;
+        display:inline-block;
+    }
+    
+    .campaign-mm-logo{
+        width:90px;
+        display:inline-block;
+        position: relative;
+        top:-30px;
+    }
+
+    .campaign-section6{
+        width:380px;
+        margin:0 auto 100px auto;
+    }
+
+    .campaign-section6-card{
+        background-color: #fff;
+        display:block;
+        width:300px;
+        height:290px;
+        margin-bottom:50px;
+        padding:20px 40px;
+        font-size:18px;
+        border-radius: 25px;
+        letter-spacing: 1px;
+    }
+
+    .campaign-section6-card-title{
+        display:block;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin-bottom:10px;
+    }
+
+    .campaign-section6-card-text{
+        font-family: 'Raleway',sans-serif;
+    }
+
+
+}
+@media only screen and (min-width:768px){
+    .campaign{
+        background-size:75px 75px;
+        background-color:#1F1F47;
+        background-image:
+        linear-gradient(to right,#333 1px, transparent 1px),
+        linear-gradient(to bottom,#333 1px, transparent 1px);
+    }
+    
+    .campaign-main-copy{
+        display:block;
+        width:600px;
+        font-size:30px;
+        color:#fff;
+        padding-top:100px;
+        margin:0 auto 0 auto;
+        letter-spacing: 1px;
+        font-family: 'RocknRoll One', sans-serif;
+        text-align: center;
+    }
+    
+    .campaign-section1{
+        width:650px;
+        margin:40px auto 200px auto;
+    }
+    
+    .campaign-section1-text{
+        color:#000;
+        border:1px solid #fff;
+        display:inline-block;
+        width:200px;
+        padding:20px 40px;
+        border-radius: 25px;
+        vertical-align: top;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+        font-size:20px;
+        background-color: #fff;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-register-button{
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:7px 14px;
+        text-decoration: none;
+        display:block;
+        width:140px;
+        text-align: center;
+        margin-top: 20px auto 0 auto;
+        font-family: 'RocknRoll One', sans-serif;
+    }
+
+    
+    .campaign-section1-img{
+        position: relative;
+        top:70px;
+        display:inline-block;
+        width:300px;
+        margin-left:50px;
+    }
+    
+    .campaign-section2{
+        margin:100px auto 300px auto;
+        width:600px;
+        text-align: center;
+    }
+    
+    .campaign-section1-text1{
+        color:#000;
+        font-size:16px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section1-text2{
+        color:#FA685E;
+        font-size:20px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    .campaign-section2-text1{
+        color:#fff;
+        font-size:25px;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-section3{
+        margin:0px auto 100px auto;
+        width:340px;
+
+    }
+    
+    .campaign-section3-card{
+        display:block;
+        margin-right:50px;
+        background-color:#fff;
+        width:240px;
+        text-align: center;
+        padding:25px 50px;
+        height:150px;
+        border-radius:15px;
+        margin-bottom:50px;
+    }
+    
+    .campaign-section3-card-title{
+        display:block;
+        font-size:22px;
+        font-family:"RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section3-card-text{
+        display:block;
+        font-size:17px;
+        font-family:"Raleway", sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-register-title{
+        color:#fff;
+        font-size:25px;
+        font-family: "RocknRoll One", sans-serif;
+        display:block;
+        width:380px;
+        margin:0 auto 0 auto;
+        
+    }
+    .campaign-section4{
+        background-color:#fff;
+        width:400px;
+        padding:40px 40px;
+        border-radius: 25px;
+        text-align: center;
+        margin:20px auto 0 auto;
+    }
+    
+    .campaign-form-field{
+        display:block;
+        padding:10px 20px;
+        font-size:16px;
+        width:360px;
+        border-radius:10px;
+        margin:0 auto 20px auto;
+        font-family: "RocknRoll One", sans-serif;
+        outline: none;
+    }
+    
+    .campaign-form-button{
+        display:block;
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:10px 20px;
+        text-decoration: none;
+        display:block;
+        font-size:16px;
+        width:100px;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin:20px auto 0 auto;
+        text-align: center;
+        width:150px;
+        outline:none;
+    }
+    
+    .campaign-section5{
+        background-color:#fff;
+        width:400px;
+        margin:50px auto 100px auto;
+        border-radius: 25px;
+    }
+    
+    .campaign-logo-container{
+        width:160px;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-gw-logo{
+        width:80px;
+        display:inline-block;
+    }
+    
+    .campaign-mm-logo{
+        width:70px;
+        display:inline-block;
+        position: relative;
+        top:-30px;
+    }
+
+    .campaign-section6{
+        width:480px;
+        margin:0 auto 300px auto;
+    }
+
+    .campaign-section6-card{
+        background-color: #fff;
+        display:block;
+        width:400px;
+        height:290px;
+        margin-bottom:50px;
+        padding:20px 40px;
+        font-size:20px;
+        border-radius: 25px;
+        letter-spacing: 1px;
+    }
+
+    .campaign-section6-card-title{
+        display:block;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin-bottom:10px;
+    }
+
+    .campaign-section6-card-text{
+        font-family: 'Raleway',sans-serif;
+    }
+
+
+}
+@media only screen and (min-width:1024px){
+
+    .campaign-section1{
+        width:735px;
+        margin:40px auto 200px auto;
+    }
+    
+    .campaign-section1-text{
+        color:#000;
+        border:1px solid #fff;
+        display:inline-block;
+        width:300px;
+        padding:20px 40px;
+        border-radius: 25px;
+        vertical-align: top;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+        font-size:20px;
+        background-color: #fff;
+        margin:0 auto 0 auto;
+    }
+}
+@media only screen and (min-width:1200px){
+    .campaign{
+        background-size:75px 75px;
+        background-color:#1F1F47;
+        background-image:
+        linear-gradient(to right,#333 1px, transparent 1px),
+        linear-gradient(to bottom,#333 1px, transparent 1px);
+    }
+    
+    .campaign-main-copy{
+        display:block;
+        width:800px;
+        font-size:40px;
+        color:#fff;
+        padding-top:200px;
+        margin:0 auto 0 auto;
+        letter-spacing: 1px;
+        font-family: 'RocknRoll One', sans-serif;
+        text-align: center;
+    
+    }
+    
+    .campaign-section1{
+        width:840px;
+        margin:20px auto 300px auto;
+    }
+    
+    .campaign-section1-text{
+        color:#000;
+        border:1px solid #fff;
+        display:inline-block;
+        width:350px;
+        padding:20px 40px;
+        border-radius: 25px;
+        margin-top:100px;
+        vertical-align: top;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+        font-size:20px;
+        background-color: #fff;
+    }
+    
+    .campaign-register-button{
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:7px 14px;
+        text-decoration: none;
+        display:block;
+        width:140px;
+        text-align: center;
+        margin-top: 20px auto 0 auto;
+        font-family: 'RocknRoll One', sans-serif;
+    }
+
+    
+    .campaign-section1-img{
+        position: relative;
+        top:120px;
+        display:inline-block;
+        width:350px;
+        margin-left:50px;
+    }
+    
+    .campaign-section2{
+        margin:20px auto 400px auto;
+        width:700px;
+        text-align: center;
+    }
+    
+    .campaign-section1-text1{
+        color:#000;
+        font-size:16px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section1-text2{
+        color:#FA685E;
+        font-size:20px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    .campaign-section2-text1{
+        color:#fff;
+        font-size:30px;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-section3{
+        margin:100px auto 400px auto;
+        width:1050px;
+    }
+    
+    .campaign-section3-card{
+        display:inline-block;
+        margin-right:50px;
+        background-color:#fff;
+        width:200px;
+        text-align: center;
+        padding:25px 50px;
+        vertical-align: top;
+        height:250px;
+        border-radius:15px;
+    }
+    
+    .campaign-section3-card-title{
+        display:block;
+        font-size:25px;
+        font-family:"RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section3-card-text{
+        display:block;
+        font-size:20px;
+        font-family:"Raleway", sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-register-title{
+        color:#fff;
+        font-size:25px;
+        font-family: "RocknRoll One", sans-serif;
+        display:block;
+        width:380px;
+        margin:0 auto 0 auto;
+    }
+    .campaign-section4{
+        background-color:#fff;
+        width:400px;
+        padding:40px 40px;
+        border-radius: 25px;
+        text-align: center;
+        margin:20px auto 0 auto;
+    }
+    
+    .campaign-form-field{
+        display:block;
+        padding:10px 20px;
+        font-size:16px;
+        width:300px;
+        border-radius:10px;
+        margin:0 auto 20px auto;
+        font-family: "RocknRoll One", sans-serif;
+        outline: none;
+    }
+    
+    .campaign-form-button{
+        display:block;
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:10px 20px;
+        text-decoration: none;
+        display:block;
+        font-size:16px;
+        width:100px;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin:20px auto 0 auto;
+        text-align: center;
+        width:150px;
+        outline:none;
+    }
+    
+    .campaign-section5{
+        background-color:#fff;
+        width:400px;
+        margin:50px auto 100px auto;
+        border-radius: 25px;
+    }
+    
+    .campaign-logo-container{
+        width:250px;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-gw-logo{
+        width:100px;
+        display:inline-block;
+    }
+    
+    .campaign-mm-logo{
+        width:150px;
+        display:inline-block;
+        position: relative;
+        top:-30px;
+    }
+
+    .campaign-section6{
+        width:1060px;
+        margin:0 auto 300px auto;
+    }
+
+    .campaign-section6-card{
+        background-color: #fff;
+        display:inline-block;
+        width:400px;
+        height:290px;
+        margin-right:50px;
+        padding:20px 40px;
+        font-size:20px;
+        vertical-align: top;
+        border-radius: 25px;
+        letter-spacing: 1px;
+    }
+
+    .campaign-section6-card-title{
+        display:block;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin-bottom:10px;
+    }
+
+    .campaign-section6-card-text{
+        font-family: 'Raleway',sans-serif;
+    }
+
+
+}
+@media only screen and (min-width:1440px){
+    .campaign{
+        background-size:75px 75px;
+        background-color:#1F1F47;
+        background-image:
+        linear-gradient(to right,#333 1px, transparent 1px),
+        linear-gradient(to bottom,#333 1px, transparent 1px);
+    }
+    
+    .campaign-main-copy{
+        display:block;
+        width:800px;
+        font-size:40px;
+        color:#fff;
+        padding-top:100px;
+        margin:0 auto 0 auto;
+        letter-spacing: 1px;
+        font-family: 'RocknRoll One', sans-serif;
+        text-align: center;
+    
+    }
+    
+    .campaign-section1{
+        width:840px;
+        margin:20px auto 300px auto;
+    }
+    
+    .campaign-section1-text{
+        color:#000;
+        border:1px solid #fff;
+        display:inline-block;
+        width:350px;
+        padding:20px 40px;
+        border-radius: 25px;
+        margin-top:100px;
+        vertical-align: top;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+        font-size:20px;
+        background-color: #fff;
+    }
+    
+    .campaign-register-button{
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:7px 14px;
+        text-decoration: none;
+        display:block;
+        width:140px;
+        text-align: center;
+        margin-top: 20px auto 0 auto;
+        font-family: 'RocknRoll One', sans-serif;
+    }
+
+    
+    .campaign-section1-img{
+        position: relative;
+        top:120px;
+        display:inline-block;
+        width:350px;
+        margin-left:50px;
+    }
+    
+    .campaign-section2{
+        margin:20px auto 400px auto;
+        width:700px;
+        text-align: center;
+    }
+    
+    .campaign-section1-text1{
+        color:#000;
+        font-size:16px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section1-text2{
+        color:#FA685E;
+        font-size:20px;
+        display:block;
+        font-family: "RocknRoll One", sans-serif;
+        margin-top:20px;
+        margin-bottom:10px;
+    }
+    .campaign-section2-text1{
+        color:#fff;
+        font-size:30px;
+        font-family: 'Raleway', sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-section3{
+        margin:100px auto 400px auto;
+        width:1350px;
+    }
+    
+    .campaign-section3-card{
+        display:inline-block;
+        margin-right:50px;
+        background-color:#fff;
+        width:300px;
+        text-align: center;
+        padding:25px 50px;
+        vertical-align: top;
+        height:150px;
+        border-radius:15px;
+    }
+    
+    .campaign-section3-card-title{
+        display:block;
+        font-size:25px;
+        font-family:"RocknRoll One", sans-serif;
+    }
+    
+    .campaign-section3-card-text{
+        display:block;
+        font-size:20px;
+        font-family:"Raleway", sans-serif;
+        letter-spacing: 1px;
+    }
+    
+    .campaign-register-title{
+        color:#fff;
+        font-size:25px;
+        font-family: "RocknRoll One", sans-serif;
+        display:block;
+        width:380px;
+        margin:0 auto 0 auto;
+    }
+    .campaign-section4{
+        background-color:#fff;
+        width:400px;
+        padding:40px 40px;
+        border-radius: 25px;
+        text-align: center;
+        margin:20px auto 0 auto;
+    }
+    
+    .campaign-form-field{
+        display:block;
+        padding:10px 20px;
+        font-size:16px;
+        width:300px;
+        border-radius:10px;
+        margin:0 auto 20px auto;
+        font-family: "RocknRoll One", sans-serif;
+        outline: none;
+    }
+    
+    .campaign-form-button{
+        display:block;
+        color:#fff;
+        background-color: #1F1F47;
+        border:1px solid #ccc;
+        border-radius:25px;
+        padding:10px 20px;
+        text-decoration: none;
+        display:block;
+        font-size:16px;
+        width:100px;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin:20px auto 0 auto;
+        text-align: center;
+        width:150px;
+        outline:none;
+    }
+    
+    .campaign-section5{
+        background-color:#fff;
+        width:400px;
+        margin:50px auto 100px auto;
+        border-radius: 25px;
+    }
+    
+    .campaign-logo-container{
+        width:250px;
+        margin:0 auto 0 auto;
+    }
+    
+    .campaign-gw-logo{
+        width:100px;
+        display:inline-block;
+    }
+    
+    .campaign-mm-logo{
+        width:150px;
+        display:inline-block;
+        position: relative;
+        top:-30px;
+    }
+
+    .campaign-section6{
+        width:1060px;
+        margin:0 auto 300px auto;
+    }
+
+    .campaign-section6-card{
+        background-color: #fff;
+        display:inline-block;
+        width:400px;
+        height:290px;
+        margin-right:50px;
+        padding:20px 40px;
+        font-size:20px;
+        vertical-align: top;
+        border-radius: 25px;
+        letter-spacing: 1px;
+    }
+
+    .campaign-section6-card-title{
+        display:block;
+        text-align: center;
+        font-family: 'RocknRoll One', sans-serif;
+        margin-bottom:10px;
+    }
+
+    .campaign-section6-card-text{
+        font-family: 'Raleway',sans-serif;
+    }
+    
+}

@@ -1,0 +1,35 @@
+.carousel{
+    width: 530px;
+    height: 350px;
+    border-radius:10px;
+}
+
+.carousel-button-container{
+    display:flex;
+    position:relative;
+    justify-content:flex-end;
+    padding-right:70px;
+    top:320px;
+}
+
+.carousel-prev{
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.carousel-next{
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.carousel-item{
+    display:none;
+    height:inherit;
+    width:inherit;
+}
+
+.carousel-image{
+    height:inherit;
+    width:inherit;
+    border-radius:10px;
+}
