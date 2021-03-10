@@ -9,71 +9,77 @@
     z-index:10;
 }*/
 
-.bg-opaque-heading{
-    position:relative;
-    font-family:"Poppins", sans-serif;
-    font-weight:700;
-    color:rgba(223, 223, 223, 0.322);
-    font-size:200px;
+.portfolio-section {
+    position: relative;
+    top: -10px;
+    overflow: visible;
 }
 
-.portfolio-content{
-    position:relative;
-    width:60%;
-    padding-top:20px;
-    padding-bottom:20px;
-    padding-left:10px;
-    padding-right:10px;
-    z-index:11;
-    left:20%;
-    top:-13%;
+.bg-opaque-heading {
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: rgba(223, 223, 223, 0.322);
+    font-size: 200px;
 }
 
-.content-container-port{
-    height:50px;
-    width:auto;
-    padding:10px;
+.portfolio-content {
+    position: relative;
+    width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    z-index: 11;
+    left: 20%;
+    top: -13%;
 }
 
-.portfolio-content{
-    font-family:"Montserrat", sans-serif;
-    font-size:24px;
-    font-weight:400;
-    color:#000;
-    letter-spacing:1px;
-    line-height:45px;
+.content-container-port {
+    height: 50px;
+    width: auto;
+    padding: 10px;
 }
 
-.portfolio-section-title-container{
-    position:absolute;
-    padding:10px;
-    height:auto;
-    width:40%;
-    transform:rotate(-90deg) translateY(-240%) translateX(95%);
-    left:50px;
+.portfolio-content {
+    font-family: "Montserrat", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #000;
+    letter-spacing: 1px;
+    line-height: 45px;
 }
 
-.portfolio-section-title{
-    font-family:"Poppins", sans-serif;
-    font-weight:500;
-    font-size:45px;
-    letter-spacing:1px;
+.portfolio-section-title-container {
+    position: absolute;
+    padding: 10px;
+    height: auto;
+    width: 40%;
+    transform: rotate(-90deg) translateY(-240%) translateX(95%);
+    left: 50px;
 }
 
-.portfolio-images-container{
-    display:flex;
-    flex-direction:row;
-    position:relative;
-    width:80%;
-    left:20%;
-    transform:translateY(5%);
-    z-index:12;
+.portfolio-section-title {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 45px;
+    letter-spacing: 1px;
 }
 
-.portfolio-preview-image{
-    height:195px;
-    width:345px;
-    border-radius:10px;
-    background-color:red;
-    margin-right:40px;
+.portfolio-images-container {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 80%;
+    left: 20%;
+    transform: translateY(5%);
+    z-index: 12;
+}
+
+.portfolio-preview-image {
+    height: 195px;
+    width: 345px;
+    border-radius: 10px;
+    background-color: red;
+    margin-right: 40px;
 }

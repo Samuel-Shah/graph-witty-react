@@ -75,6 +75,12 @@ function Campaign() {
                         First batch: 15-21 March<br />Timing: 10am - 4pm
                     </span>
                 </div>
+                <div className="campaign-section3-card">
+                    <span className="campaign-section3-card-title">Where?</span>
+                    <span className="campaign-section3-card-text">
+                    Elite Plaza, #301, 3rd Floor, above PC Jewellers and Mussaddilal Jewellers, Punjagutta, Hyderabad
+                    </span>
+                </div>
             </div>
 
             <div className="campaign-section6">

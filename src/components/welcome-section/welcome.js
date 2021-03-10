@@ -1,9 +1,9 @@
-import React from 'react';
-import "./nav.css";
+import React from "react"
+import "./welcome.css"
 
-function Nav() {
+function WelcomeSection() {
     return (
-        <>
+        <div className="welcome-section">
             <div className="nav-container">
                 <div className="logo-container">
                     <img src="/gw-logo.png" className="nav-logo" alt="GraphWitty Logo"></img>
@@ -14,8 +14,10 @@ function Nav() {
                     <span className="nav-menu-items">Work with us</span>
                 </div>
             </div>
-        </>
+
+            <span className="welcome-text">Welcome</span>
+        </div>
     )
 }
 
-export default Nav;
+export default WelcomeSection

@@ -1027,13 +1027,13 @@
     
     .campaign-section3-card{
         display:inline-block;
-        margin-right:50px;
+        margin-right:40px;
         background-color:#fff;
-        width:200px;
+        width:122px;
         text-align: center;
         padding:25px 50px;
         vertical-align: top;
-        height:250px;
+        height:280px;
         border-radius:15px;
     }
     
@@ -1045,7 +1045,7 @@
     
     .campaign-section3-card-text{
         display:block;
-        font-size:20px;
+        font-size:17px;
         font-family:"Raleway", sans-serif;
         letter-spacing: 1px;
     }
@@ -1247,18 +1247,18 @@
     
     .campaign-section3{
         margin:100px auto 400px auto;
-        width:1350px;
+        width:1320px;
     }
     
     .campaign-section3-card{
         display:inline-block;
-        margin-right:50px;
+        margin-right:40px;
         background-color:#fff;
-        width:300px;
+        width:190px;
         text-align: center;
         padding:25px 50px;
         vertical-align: top;
-        height:150px;
+        height:220px;
         border-radius:15px;
     }
     

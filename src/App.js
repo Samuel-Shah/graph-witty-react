@@ -3,7 +3,6 @@ import './App.css';
 
 
 import Portfolio from './pages/portfolio/portfolio'
-import Landing from './pages/landing/landing'
 import LandingPage2 from './pages/landing-page/landing-page'
 import Campaign from "./pages/campaign/campaign";
 function App() {
@@ -17,9 +16,9 @@ function App() {
           <Route path="/portfolio">
             <Portfolio />
           </Route>
-          {/* <Route path="/landing">
+           <Route path="/landing">
             <LandingPage2 />
-          </Route> */}
+          </Route>
           <Route exact path="/campaign">
             <Campaign />
           </Route>
