@@ -8,6 +8,7 @@ function Campaign() {
     const [message, setMessage] = useState("")
 
     function onSubmit() {
+        alert('Thank you for your submission')
         fetch('http://graphwitty.com:3000/contact/send', {
             method: 'POST', // or 'PUT'
             headers: {
