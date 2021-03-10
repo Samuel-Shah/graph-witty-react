@@ -72,7 +72,7 @@ function Campaign() {
                 <div className="campaign-section3-card">
                     <span className="campaign-section3-card-title">When?</span>
                     <span className="campaign-section3-card-text">
-                        First batch: 7-12 March<br />Timing: 10am - 4pm
+                        First batch: 15-21 March<br />Timing: 10am - 4pm
                     </span>
                 </div>
             </div>
