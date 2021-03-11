@@ -120,3 +120,1013 @@
     padding:20px;
 }
 
+@media only screen and (min-width:320px){
+    .our-services-section{
+        height:130vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:5%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:50px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-320%) translateX(-70%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:20px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:0px;
+        width:240px;
+        margin:0 auto 0 auto;
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:column;
+        justify-content:space-between;
+        height:50vh;
+        width: 100%;
+        margin-bottom:10px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:80px;
+        width:240px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+        margin-bottom:30px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:16px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:60px;
+        width:60px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
+
+@media only screen and (min-width:375px){
+    .our-services-section{
+        height:180vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:5%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:60px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-320%) translateX(-70%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:20px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:-50px;
+        width:280px;
+        margin:0 auto 0 auto;
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:column;
+        justify-content:space-between;
+        height:50vh;
+        width: 100%;
+        margin-bottom:100px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:120px;
+        width:280px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+        margin-bottom:30px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:20px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:90px;
+        width:90px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
+
+@media only screen and (min-width:425px){
+    .our-services-section{
+        height:180vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:5%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:60px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-320%) translateX(-70%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:20px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:-50px;
+        width:290px;
+        margin:0 auto 0 auto;
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:column;
+        justify-content:space-between;
+        height:50vh;
+        width: 100%;
+        margin-bottom:100px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:130px;
+        width:290px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+        margin-bottom:30px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:20px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:90px;
+        width:90px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
+
+@media only screen and (min-width:768px){
+    .our-services-section{
+        height:133vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:5%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:120px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-300%) translateX(20%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:35px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:-200px;
+        width:80%;
+    
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+        height:100%;
+        widows: 100%;
+        margin-bottom:50px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:130px;
+        width:290px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:20px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:90px;
+        width:90px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
+
+@media only screen and (min-width:1024px){
+    .our-services-section{
+        height:133vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:5%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:160px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-290%) translateX(20%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:45px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:-200px;
+        width:75%;
+    
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+        height:100%;
+        widows: 100%;
+        margin-bottom:50px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:200px;
+        width:350px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:140px;
+        width:140px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
+
+@media only screen and (min-width:1200px){
+    .our-services-section{
+        height:133vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:5%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:190px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-290%) translateX(20%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:45px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:-200px;
+        width:70%;
+    
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+        height:100%;
+        widows: 100%;
+        margin-bottom:50px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:250px;
+        width:400px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:163px;
+        width:163px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
+
+@media only screen and (min-width:1440px){
+    .our-services-section{
+        height:133vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:10%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:200px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-290%) translateX(30%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:45px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:-200px;
+        width:66%;
+    
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+        height:100%;
+        widows: 100%;
+        margin-bottom:50px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:250px;
+        width:400px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:163px;
+        width:163px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
+
+@media only screen and (min-width:2560px){
+    .our-services-section{
+        height:133vh;
+        position:relative;
+        top:-10px;
+        width:auto;
+        overflow: hidden;
+    }
+    
+    .our-services-heading-container{
+        position:relative;
+        width:auto;
+        text-align:center;
+        margin:0 auto;
+        top:10%;
+        z-index:10;
+    }
+    
+    .bg-opaque-heading{
+        position:relative;
+        font-family:"Poppins", sans-serif;
+        font-weight:700;
+        color:rgba(223, 223, 223, 0.322);
+        font-size:200px;
+    }
+    
+    .services-section-title-container{
+        position:absolute;
+        padding:10px;
+        height:auto;
+        width:40%;
+        transform:rotate(-90deg) translateY(-290%) translateX(30%);
+        left:100px;
+        z-index:11;
+    }
+    
+    .services-section-title{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-weight:500;
+        font-size:45px;
+        letter-spacing:1px;
+    }
+    
+    .services-cards-container{
+        display:grid;
+        place-items:center;
+        height:100%;
+        width:100%;
+        z-index:15;
+    }
+    
+    .services-cards-inner-container{
+        display:block;
+        position:relative;
+        top:-200px;
+        width:66%;
+    
+    }
+    
+    .services-cards-row{
+        display:flex;
+        flex-direction:row;
+        justify-content:space-between;
+        height:100%;
+        widows: 100%;
+        margin-bottom:50px;
+    }
+    
+    .services-card{
+        display:grid;
+        place-items:center;
+        height:250px;
+        width:400px;
+        background-color: #fff;
+        border-radius:5px;
+        box-shadow: 3px 2px 8px rgba(145, 145, 145, 0.25);
+        z-index:20;
+        padding-top:20px;
+        padding-bottom:20px;
+    }
+    
+    .services-title{
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-image{
+        height:163px;
+        width:163px;
+    }
+    
+    .services-content{
+        display:grid;
+        place-items:center;
+    }
+    
+    .services-content-hover{
+        display:none;
+        place-items:center;
+    }
+    
+    .services-title-hover{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-weight:500;
+        font-size:24px;
+        line-height:50px;
+    }
+    
+    .services-description{
+        color:#fff;
+        font-family:"Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 30px;
+        text-align:center;
+        padding:20px;
+    }
+    
+    
+}
