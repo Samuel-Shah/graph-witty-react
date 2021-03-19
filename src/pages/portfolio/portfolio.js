@@ -264,8 +264,8 @@ function Portfolio() {
                                 <div className="social-links">
                                     <div class="vertical-line-one"></div>
                                     <div class="vertical-line-two"></div>
-                                    <a href="https://www.facebook.com/f9signature/" target="_blank"><img class="facebook-logo" src="fb.png" alt="" /></a>
-                                    <a href="https://www.instagram.com/f9_signature_banqueting/" target="_blank"><img class="instagram-logo" src="ig.png" alt="" /></a>
+                                    <a href="https://www.facebook.com/TheCulinaryLounge" target="_blank"><img class="facebook-logo" src="fb.png" alt="" /></a>
+                                    <a href="https://www.instagram.com/theculinarylounge/" target="_blank"><img class="instagram-logo" src="ig.png" alt="" /></a>
                                     {/* <img class="linkedin-logo" src="li.png" alt="" /> */}
                                 </div>
                             </div>
@@ -284,8 +284,8 @@ function Portfolio() {
                                 <div className="social-links">
                                     <div class="vertical-line-one"></div>
                                     <div class="vertical-line-two"></div>
-                                    <a href="https://www.facebook.com/f9signature/" target="_blank"><img class="facebook-logo" src="fb.png" alt="" /></a>
-                                    <a href="https://www.instagram.com/f9_signature_banqueting/" target="_blank"><img class="instagram-logo" src="ig.png" alt="" /></a>
+                                    <a href="" target="_blank"><img class="facebook-logo" src="fb.png" alt="" /></a>
+                                    <a href="https://www.instagram.com/makeupartisttamanna/" target="_blank"><img class="instagram-logo" src="ig.png" alt="" /></a>
                                     {/* <img class="linkedin-logo" src="li.png" alt="" /> */}
                                 </div>
                             </div>
