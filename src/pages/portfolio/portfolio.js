@@ -292,6 +292,26 @@ function Portfolio() {
 
                         </div>
 
+                        <div className="portfolio-section" onMouseMove={e => { initTilt(e) }} onMouseLeave={tilt(window.innerWidth / 2, window.innweHeight / 2)}>
+                            <div className="portfolio-section-inner">
+                                <div className="portfolio-section-about">
+                                    <span className="portfolio-section-text">Being from an industry that cannot be easily marketed on social media, we create campaigns for this medical distributor on social media. Since the beginning of the campaigns, the business has started receiving more enquiries and leads
+                    </span>
+                                </div>
+                                <img className="portfolio-image" src="/goel.jpg" />
+                                <span className="portfolio-title">Goel Distributors</span>
+                                <span className="portfolio-description">Digital Marketing</span>
+                                <div className="social-links">
+                                    <div class="vertical-line-one"></div>
+                                    <div class="vertical-line-two"></div>
+                                    <a href="https://www.facebook.com/goeldistributors" target="_blank"><img class="facebook-logo" src="fb.png" alt="" /></a>
+                                    <a href="" target="_blank"><img class="instagram-logo" src="ig.png" alt="" /></a>
+                                    {/* <img class="linkedin-logo" src="li.png" alt="" /> */}
+                                </div>
+                            </div>
+
+                        </div>
+
                     </div>
                 );
         }
