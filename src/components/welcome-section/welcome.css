@@ -1,9 +1,10 @@
 .welcome-section {
     background-image: url('section1-bg.jpg');
     width: auto;
-    height: 160vh;
+    height: 100vh;
     background-repeat: no-repeat;
     background-size: 100vw;
+    scroll-snap-align: center;
 }
 
 .nav-container {
@@ -219,9 +220,10 @@
     .welcome-section {
         background-image: url('section1-bg.jpg');
         width: auto;
-        height: 160vh;
+        height: 100vh;
         background-repeat: no-repeat;
         background-size: 100vw;
+        scroll-snap-align: center;
     }
 }
 
@@ -266,9 +268,10 @@
     .welcome-section {
         background-image: url('section1-bg.jpg');
         width: auto;
-        height: 160vh;
+        height: 100vh;
         background-repeat: no-repeat;
         background-size: 100vw;
+        scroll-snap-align: center;
     }
 }
 
@@ -313,9 +316,10 @@
     .welcome-section {
         background-image: url('section1-bg.jpg');
         width: auto;
-        height: 160vh;
+        height: 100vh;
         background-repeat: no-repeat;
         background-size: 100vw;
+        scroll-snap-align: center;
     }
 }
 
@@ -359,9 +363,10 @@
     .welcome-section {
         background-image: url('section1-bg.jpg');
         width: auto;
-        height: 160vh;
+        height: 100vh;
         background-repeat: no-repeat;
         background-size: 100vw;
+        scroll-snap-align: center;
     }
 }
 

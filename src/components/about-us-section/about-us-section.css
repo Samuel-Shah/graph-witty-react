@@ -1,9 +1,10 @@
 .about-us-section{
     position:relative;
     top:-20px;
-    height:133vh;
+    height:100vh;
     width:auto;
     overflow: hidden;
+    scroll-snap-align: center;
 }
 
 .about-heading-container{
@@ -123,7 +124,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:140vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }
@@ -249,7 +250,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:133vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }
@@ -375,7 +376,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:133vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }
@@ -501,7 +502,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:133vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }
@@ -629,7 +630,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:133vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }
@@ -757,7 +758,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:133vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }
@@ -882,7 +883,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:133vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }
@@ -1007,7 +1008,7 @@ text-decoration:none;
     .about-us-section{
         position:relative;
         top:-20px;
-        height:133vh;
+        height:100vh;
         width:auto;
         overflow: hidden;
     }

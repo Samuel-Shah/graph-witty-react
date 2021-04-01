@@ -56,6 +56,12 @@
     padding-bottom:10px;
 }
 
+#landing{
+    height:100vh;
+    overflow-y:scroll;
+    scroll-snap-type: y mandatory;
+}
+
 @media only screen and (min-width:768px){
     .footer-container{
         background-color: #F8F8F8;

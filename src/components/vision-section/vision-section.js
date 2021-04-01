@@ -36,7 +36,6 @@ function VisionSection() {
         document.getElementById("hover-card4").style.display = "none";
     }
 
-
     return (
         <>
             <div className="vision-section" id="vision-section">
