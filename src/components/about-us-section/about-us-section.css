@@ -419,7 +419,7 @@ text-decoration:none;
         position:relative;
         top:50%;
         left:50%;
-        transform:scale(0.7) translateX(-85%) translateY(-80%);
+        transform:scale(0.6) translateX(-97%) translateY(-130%);
     }
     
     .about-inner-container-right{
@@ -430,7 +430,7 @@ text-decoration:none;
     
     .about-right-card{
         position:relative;
-        top:-120px;
+        top:-270px;
         left:0px;
         height:500px;
         width:400px;
@@ -439,7 +439,7 @@ text-decoration:none;
         border-radius:10px;
         padding:20px;
         box-shadow: -3px -3px 10px 2px rgba(132, 132, 132, 0.1), 3px 3px 10px 2px rgba(132, 132, 132, 0.1);
-        transform:scale(0.75);
+        transform:scale(0.6);
     }
     
     .about-card-heading{
@@ -501,7 +501,7 @@ text-decoration:none;
 @media only screen and (min-width:768px){
     .about-us-section{
         position:relative;
-        top:-20px;
+        top:0px;
         height:100vh;
         width:auto;
         overflow: hidden;
@@ -513,6 +513,7 @@ text-decoration:none;
         text-align:center;
         margin:0 auto;
         z-index:10;
+        top:-7%;
     }
     
     .about-bg-opaque-heading{
@@ -528,6 +529,8 @@ text-decoration:none;
         place-items:center;
         height:100px;
         width:100%;
+        position:relative;
+        top:-8%;
     }
     
     .about-inner-container{
@@ -629,7 +632,6 @@ text-decoration:none;
 @media only screen and (min-width:1024px){
     .about-us-section{
         position:relative;
-        top:-20px;
         height:100vh;
         width:auto;
         overflow: hidden;
@@ -656,6 +658,8 @@ text-decoration:none;
         place-items:center;
         height:100px;
         width:100%;
+        transform:scale(0.8);
+        z-index:12;
     }
     
     .about-inner-container{
@@ -782,8 +786,11 @@ text-decoration:none;
     .about-container{
         display:grid;
         place-items:center;
-        height:100px;
+        position:relative;
+        top:-12%;
+        height:auto;
         width:100%;
+        transform:scale(0.85);
     }
     
     .about-inner-container{
@@ -901,7 +908,7 @@ text-decoration:none;
         font-family:"Poppins", sans-serif;
         font-weight:700;
         color:rgba(223, 223, 223, 0.322);
-        font-size:200px;
+        font-size:250px;
     }
     
     .about-container{
@@ -909,6 +916,7 @@ text-decoration:none;
         place-items:center;
         height:100px;
         width:100%;
+        transform:scale(1);
     }
     
     .about-inner-container{

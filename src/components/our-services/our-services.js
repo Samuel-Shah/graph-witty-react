@@ -109,6 +109,21 @@ function OurServicesSection() {
 
                     </div>
                 </div>
+                <div className="services-hover-card1" id="services-hover-card1">
+                    <div className="services-hover-card-container">
+                        <div className="close-icon-container">
+                            <img src="/close-icon.svg" className="close-icon" />
+                        </div>
+                        <div className="services-hover-card">
+                            <img src="/ethical.png" className="hover-card-image"></img>
+                            <span className="hover-card-heading">Highest Ethical Standards</span>
+                            <span className="hover-card-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus risus vitae eget blandit imperdiet. Faucibus elit at tristique vitae neque, ipsum suspendisse. Non suspendisse nibh condimentum </span>
+                        </div>
+                    </div>
+                    <div className="pointer-container">
+                        <div className="arrow-right1"></div>
+                    </div>
+                </div>
 
             </div>
         </>

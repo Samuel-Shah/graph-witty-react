@@ -7,7 +7,7 @@ function ContactSection() {
         <>
             <div className="contact-section">
                 <div className="heading-container">
-                    <span className="bg-opaque-heading"><i>Contact</i></span>
+                    <span className="contact-bg-opaque-heading"><i>Contact</i></span>
                 </div>
                 <div className="section-content">
                     <div className="content-container-sec">
