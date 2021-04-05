@@ -15,7 +15,7 @@ function PortfolioSection() {
                         <img className="portfolio-preview-image" src="/rsn.jpg"></img>
                     </div>
                     <br></br>
-                    <div className="portfolio-images-container closer-portfolio">
+                    <div className="portfolio-images-container closer-portfolio mob-hidden">
                         <img className="portfolio-preview-image" src="/fitmap.jpg"></img>
                         <img className="portfolio-preview-image" src="/tgo.jpg"></img>
                     </div>

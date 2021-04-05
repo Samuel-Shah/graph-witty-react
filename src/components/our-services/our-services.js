@@ -109,7 +109,7 @@ function OurServicesSection() {
 
                     </div>
                 </div>
-                <div className="services-hover-card1" id="services-hover-card1">
+                {/* <div className="services-hover-card1" id="services-hover-card1">
                     <div className="services-hover-card-container">
                         <div className="close-icon-container">
                             <img src="/close-icon.svg" className="close-icon" />
@@ -123,7 +123,7 @@ function OurServicesSection() {
                     <div className="pointer-container">
                         <div className="arrow-right1"></div>
                     </div>
-                </div>
+                </div> */}
 
             </div>
         </>

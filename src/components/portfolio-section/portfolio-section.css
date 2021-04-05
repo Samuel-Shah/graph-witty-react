@@ -80,7 +80,7 @@
     .landing-portfolio-section {
         height:100vh;
         position: relative;
-        top: -200px;
+        top: -0px;
         overflow: hidden;
         scroll-snap-align: center;
     }
@@ -98,7 +98,7 @@
         width: auto;
         text-align: center;
         margin: 0 auto;
-        top: 20%;
+        top: 0%;
         z-index: 10;
     }
     
@@ -144,6 +144,11 @@
         font-weight: 500;
         font-size: 45px;
         letter-spacing: 1px;
+    }
+
+    .portfolio-inner-container{
+        position:relative;
+        top:-60px;
     }
     
     .portfolio-images-container {
@@ -165,12 +170,12 @@
     }
 
     .portfolio-button-container{
-        display:flex;
-        position:relative;
-        justify-content:flex-end;
+        display: grid;
+        position: relative;
+        place-items: center;
         width:100%;
-        top:230px;
-        right:50px;
+        top:0px;
+        right:0px;
     }
 
     .portfolio-button{
@@ -186,6 +191,10 @@
         margin:10px 0 0 10px;
     }
 
+    .mob-hidden{
+        display:none;
+    }
+
 }
 
 @media only screen and (min-width:375px){
@@ -193,7 +202,7 @@
     .landing-portfolio-section {
         height:100vh;
         position: relative;
-        top: -250px;
+        top: -0px;
         overflow: hidden;
         scroll-snap-align: center;
     }
@@ -203,7 +212,7 @@
         width: auto;
         text-align: center;
         margin: 0 auto;
-        top: 20%;
+        top: 0%;
         z-index: 10;
     }
     
@@ -213,7 +222,7 @@
         font-family: "Poppins", sans-serif;
         font-weight: 700;
         color: rgba(223, 223, 223, 0.322);
-        font-size: 100px;
+        font-size: 90px;
     }
     
     .portfolio-content {
@@ -248,15 +257,20 @@
         padding: 10px;
         height: auto;
         width: 80%;
-        transform: rotate(-90deg) translateY(-300%) translateX(70%);
+        transform: rotate(-90deg) translateY(-340%) translateX(140%);
         left: 50px;
     }
     
     .portfolio-section-title {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
-        font-size: 45px;
+        font-size: 25px;
         letter-spacing: 1px;
+    }
+
+    .portfolio-inner-container{
+        position:relative;
+        top:-80px;
     }
     
     .portfolio-images-container {
@@ -278,12 +292,12 @@
     }
 
     .portfolio-button-container{
-        display:flex;
-        position:relative;
-        justify-content:flex-end;
+        display: grid;
+        position: relative;
+        place-items: center;
         width:100%;
-        top:220px;
-        right:50px;
+        top:0px;
+        right:0px;
     }
 
     .portfolio-button{
@@ -297,6 +311,10 @@
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
+    }
+
+    .mob-hidden{
+        display:none;
     }
 
 }
@@ -362,30 +380,30 @@
         padding: 10px;
         height: auto;
         width: 80%;
-        transform: rotate(-90deg) translateY(-300%) translateX(70%);
+        transform: rotate(-90deg) translateY(-320%) translateX(140%);
         left: 50px;
     }
     
     .portfolio-section-title {
         font-family: "Poppins", sans-serif;
         font-weight: 500;
-        font-size: 45px;
+        font-size: 25px;
         letter-spacing: 1px;
     }
 
     .portfolio-inner-container{
         position:relative;
-        top:-100px;
+        top:-60px;
     }
     
     .portfolio-images-container {
         display: flex;
         flex-direction: column;
         position: relative;
+        align-items: center;
         width: 100%;
-        left: 20%;
         top:15%;
-        transform: translateY(5%);
+        transform: none;
         z-index: 12;
     }
     
@@ -401,7 +419,7 @@
         position:relative;
         justify-content:flex-end;
         width:100%;
-        top:220px;
+        top:-20px;
         right:50px;
     }
 
@@ -416,6 +434,10 @@
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
+    }
+
+    .mob-hidden{
+        display:none;
     }
 
 }
@@ -518,9 +540,9 @@
     }
 
     .portfolio-button-container{
-        display:flex;
-        position:relative;
-        justify-content:flex-end;
+        display:flex!important;
+        position:relative!important;
+        justify-content:flex-end!important;
         width:100%;
         top:0px;
         right:50px;
@@ -537,6 +559,10 @@
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
+    }
+
+    .mob-hidden{
+        display:flex!important;
     }
 
 }
