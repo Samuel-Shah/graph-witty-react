@@ -70,7 +70,7 @@ function OurServicesSection() {
                                 </div>
                                 <div className="services-content-hover" id="web-design-hover">
                                     <span className="services-title-hover">Web Design</span>
-                                    <span className="services-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Leo interdum cursus mi et varius ac diam volutpat, enim. Velit facilisis facilisis diam porta. Aliquet viverra iaculis id sagittis massa in vitae, tempor nunc. Dignissim morbi egestas tempus eu. </span>
+                                    <span className="services-description">We have a team of experts who can create innovative and impactful websites that can become the face of your brand.</span>
                                 </div>
                             </div>
                             <div className="services-card" id="web-dev-bg" onMouseEnter={e => { e.preventDefault(); displayWebDev(e) }} onMouseLeave={e => { e.preventDefault(); hideWebDev(e) }}>
@@ -80,7 +80,7 @@ function OurServicesSection() {
                                 </div>
                                 <div className="services-content-hover" id="web-dev-hover">
                                     <span className="services-title-hover">Web Development</span>
-                                    <span className="services-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Leo interdum cursus mi et varius ac diam volutpat, enim. Velit facilisis facilisis diam porta. Aliquet viverra iaculis id sagittis massa in vitae, tempor nunc. Dignissim morbi egestas tempus eu. </span>
+                                    <span className="services-description">We deliver highly functional, interactive and visually engaging websites and apps that gives your brand’s customers a lasting first impression.</span>
                                 </div>
                             </div>
                         </div>
@@ -92,17 +92,17 @@ function OurServicesSection() {
                                 </div>
                                 <div className="services-content-hover" id="smm-hover">
                                     <span className="services-title-hover">Social Media Marketing</span>
-                                    <span className="services-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Leo interdum cursus mi et varius ac diam volutpat, enim. Velit facilisis facilisis diam porta. Aliquet viverra iaculis id sagittis massa in vitae, tempor nunc. Dignissim morbi egestas tempus eu. </span>
+                                    <span className="services-description">Our highly experienced teams understand your brand and it’s need to have the perfect digital presence through campaigns, innovative strategies, posts and ads for social media platforms.</span>
                                 </div>
                             </div>
                             <div className="services-card" id="smman-bg" onMouseEnter={e => { e.preventDefault(); displaySmMan(e) }} onMouseLeave={e => { e.preventDefault(); hideSmMan(e) }}>
                                 <div className="services-content" id="smman">
                                     <img src="/smman.png" className="services-image"></img>
-                                    <span className="services-title">Social Media Management</span>
+                                    <span className="services-title">Design</span>
                                 </div>
                                 <div className="services-content-hover" id="smman-hover">
-                                    <span className="services-title-hover">Social Media Management</span>
-                                    <span className="services-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Leo interdum cursus mi et varius ac diam volutpat, enim. Velit facilisis facilisis diam porta. Aliquet viverra iaculis id sagittis massa in vitae, tempor nunc. Dignissim morbi egestas tempus eu. </span>
+                                    <span className="services-title-hover">Design</span>
+                                    <span className="services-description">We have a team of the best creative designers who can create a beautiful piece of art from a blank canvas, in line with the marketing strategy and positioning of your brand.</span>
                                 </div>
                             </div>
                         </div>

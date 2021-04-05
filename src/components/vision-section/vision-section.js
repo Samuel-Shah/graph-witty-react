@@ -66,7 +66,7 @@ function VisionSection() {
                         <div className="hover-card">
                             <img src="/ethical.png" className="hover-card-image"></img>
                             <span className="hover-card-heading">Highest Ethical Standards</span>
-                            <span className="hover-card-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus risus vitae eget blandit imperdiet. Faucibus elit at tristique vitae neque, ipsum suspendisse. Non suspendisse nibh condimentum </span>
+                            <span className="hover-card-content">Defining ethics and upholding it in every task you complete is very critical to every business. Every professional at GraphWitty works with highest integrity and passion at every given moment to deliver highest quality of work. </span>
                         </div>
                     </div>
                     <div className="pointer-container">
@@ -86,7 +86,7 @@ function VisionSection() {
                         <div className="hover-card">
                             <img src="/coownership.png" className="hover-card-image"></img>
                             <span className="hover-card-heading">Co-Ownership</span>
-                            <span className="hover-card-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus risus vitae eget blandit imperdiet. Faucibus elit at tristique vitae neque, ipsum suspendisse. Non suspendisse nibh condimentum </span>
+                            <span className="hover-card-content">We understand your business is like a baby to you. And when time comes to hand over a phase of it  like embarking on a digital journey to another individuals, it is certain you will be critical. When you approach us for our services, we consider it our own, understand your goals, check in with your regularly, track the progress and ultimately co-own it with you to make it a successful brand.</span>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@ function VisionSection() {
                         <div className="hover-card">
                             <img src="/coownership.png" className="hover-card-image"></img>
                             <span className="hover-card-heading">Flexibility</span>
-                            <span className="hover-card-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus risus vitae eget blandit imperdiet. Faucibus elit at tristique vitae neque, ipsum suspendisse. Non suspendisse nibh condimentum </span>
+                            <span className="hover-card-content">While some tasks can be planned and executed as per scheduled, there is always a room for unexpected tasks especially when each brand’s needs are dynamic. At GraphWitty, we understand the need for flexibility while working in every brand we are associated with. </span>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,7 @@ function VisionSection() {
                         <div className="hover-card">
                             <img src="/perseverence.png" className="hover-card-image"></img>
                             <span className="hover-card-heading">Perseverence</span>
-                            <span className="hover-card-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tempus risus vitae eget blandit imperdiet. Faucibus elit at tristique vitae neque, ipsum suspendisse. Non suspendisse nibh condimentum </span>
+                            <span className="hover-card-content">Evolution is always a time taking process and to for that it take a zillion moments of learning and unlearning. In the growing process, it is very essential to be perseverant. We, at GraphWitty are perseverant to hear a brand’s needs and goals and watch it evolve successfully as much as you do. </span>
                         </div>
                     </div>
                     <div className="pointer-container">
