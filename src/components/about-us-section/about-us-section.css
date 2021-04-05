@@ -284,7 +284,7 @@ text-decoration:none;
     .about-card-mobile{
         position:relative;
         top:-80px;
-        height:60vh;
+        height:auto;
         width:80vw;
         box-sizing:border-box;
         padding:10px;
@@ -479,7 +479,7 @@ text-decoration:none;
     .about-card-mobile{
         position:relative;
         top:-80px;
-        height:50vh;
+        height:auto;
         width:80vw;
         box-sizing:border-box;
         background-color:#fff;
@@ -675,7 +675,7 @@ text-decoration:none;
         position:relative;
         box-sizing:border-box;
         top:-80px;
-        height:50vh;
+        height:auto;
         width:70vw;
         background-color:#fff;
         border-radius:10px;
