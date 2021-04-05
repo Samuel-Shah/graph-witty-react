@@ -131,6 +131,7 @@
     }
     
     .portfolio-section-title-container {
+        display: none;
         position: absolute;
         padding: 10px;
         height: auto;
@@ -253,6 +254,7 @@
     }
     
     .portfolio-section-title-container {
+        display: none;
         position: absolute;
         padding: 10px;
         height: auto;
@@ -376,6 +378,7 @@
 
     
     .portfolio-section-title-container {
+        display: block;
         position: absolute;
         padding: 10px;
         height: auto;
