@@ -5,19 +5,23 @@ import './App.css';
 import Portfolio from './pages/portfolio/portfolio'
 import LandingPage2 from './pages/landing-page/landing-page'
 import Campaign from "./pages/campaign/campaign";
+import ContactPage from "./pages/contact-page/contact-page";
 function App() {
   return (
     <div className="App">
       <Router>
         <Switch>
           <Route exact path="/">
-            <Portfolio />
+            <LandingPage2 />
           </Route>
           <Route path="/portfolio">
             <Portfolio />
           </Route>
-           <Route path="/landing">
+          <Route path="/landing">
             <LandingPage2 />
+          </Route>
+          <Route path="/contact">
+            <ContactPage />
           </Route>
           <Route exact path="/campaign">
             <Campaign />

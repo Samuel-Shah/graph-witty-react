@@ -20,12 +20,24 @@
 		top:-20px;
 	}
 	
+	.portfolio-logos-container{
+		display:flex;
+		flex-direction:row;
+	}
+	
 	.gw-logo {
 		position: absolute;
 		top: 10px;
 		left:10px;
-		width: 60px;}
-	
+		width: 60px;
+	}
+
+	.gp-logo {
+		position: absolute;
+		top: 20px;
+		left:80px;
+		width: 100px;
+	}
 	
 	.portfolio-image {
 		display: block;
@@ -138,11 +150,24 @@
 		margin: 100px auto 0 auto;
 	}
 	
+	.portfolio-logos-container{
+		display:flex;
+		flex-direction:row;
+	}
+	
 	.gw-logo {
 		position: absolute;
 		top: 10px;
 		left:10px;
-		width: 40px;}
+		width: 60px;
+	}
+
+	.gp-logo {
+		position: absolute;
+		top: 20px;
+		left:80px;
+		width: 100px;
+	}
 	
 	
 	.portfolio-image {
@@ -258,11 +283,25 @@
 		top:-20px;
 	}
 	
+
+	.portfolio-logos-container{
+		display:flex;
+		flex-direction:row;
+	}
+	
 	.gw-logo {
 		position: absolute;
 		top: 10px;
 		left:10px;
-		width: 40px;}
+		width: 60px;
+	}
+
+	.gp-logo {
+		position: absolute;
+		top: 20px;
+		left:80px;
+		width: 100px;
+	}
 	
 	
 	.portfolio-image {
@@ -378,11 +417,25 @@
 		top:0px !important;
 	}
 	
+	.portfolio-logos-container{
+		display:flex;
+		flex-direction:row;
+	}
+	
 	.gw-logo {
 		position: fixed;
 		top: 20px;
 		left:20px;
-		width: 80px;}
+		width: 80px;
+	}
+
+	.gp-logo {
+		position: fixed;
+		top: 30px;
+		left:100px;
+		width: 100px;
+	}
+	
 	
 	
 	.portfolio-image {
@@ -496,11 +549,24 @@
 		top:0px !important;
 	}
 	
+	.portfolio-logos-container{
+		display:flex;
+		flex-direction:row;
+	}
+	
 	.gw-logo {
 		position: fixed;
-		top: 15px;
-		left:15px;
-		width: 110px;}
+		top: 20px;
+		left:20px;
+		width: 110px;
+	}
+
+	.gp-logo {
+		position: fixed;
+		top: 40px;
+		left:130px;
+		width: 120px;
+	}
 	
 	
 	.portfolio-image {
@@ -615,11 +681,24 @@
 		top:0px !important;
 	}
 	
+	.portfolio-logos-container{
+		display:flex;
+		flex-direction:row;
+	}
+	
 	.gw-logo {
 		position: fixed;
-		top: 15px;
-		left:15px;
-		width: 110px;}
+		top: 20px;
+		left:20px;
+		width: 110px;
+	}
+
+	.gp-logo {
+		position: fixed;
+		top: 40px;
+		left:130px;
+		width: 130px;
+	}
 	
 	
 	.portfolio-image {
@@ -733,12 +812,25 @@
 		position: relative;
 		top:0px !important;
 	}
+
+	.portfolio-logos-container{
+		display:flex;
+		flex-direction:row;
+	}
 	
 	.gw-logo {
 		position: fixed;
 		top: 20px;
 		left:20px;
-		width: 110px;}
+		width: 110px;
+	}
+
+	.gp-logo {
+		position: fixed;
+		top: 40px;
+		left:130px;
+		width: 130px;
+	}
 	
 	
 	.portfolio-image {

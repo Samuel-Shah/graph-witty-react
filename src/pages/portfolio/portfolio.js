@@ -106,7 +106,11 @@ function Portfolio() {
             
                 return (
                     <div id="portfolio" className="portfolio">
-                        <img id="gw-logo" className="gw-logo" src="gw-logo.png" />
+                        <div className="portfolio-logos-container">
+                            <img id="gw-logo" className="gw-logo" src="gw-logo.png" />
+                            <img id="gw-logo" className="gp-logo" src="/google-partner.png" />
+                        </div>
+                        
 
                         <div className="portfolio-section" onMouseMove={e => { initTilt(e) }} onMouseLeave={tilt(window.innerWidth / 2, window.innweHeight / 2)}>
                             <div className="portfolio-section-inner">
