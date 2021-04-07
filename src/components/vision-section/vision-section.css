@@ -511,7 +511,7 @@
   .hover-card{
       display:grid;
       place-items:center;
-      height:100%;
+      height:auto;
       width:100%;
       background-color:#FFF;
       border-radius:10px;
