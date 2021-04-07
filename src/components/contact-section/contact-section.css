@@ -154,6 +154,7 @@
         box-shadow:1px 1px 10px #ccc, -1px -1px 10px#ccc;
         padding:10px 20px;
         outline:none;
+        z-index:20;
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
@@ -246,6 +247,7 @@
         box-shadow:1px 1px 10px #ccc, -1px -1px 10px#ccc;
         padding:10px 20px;
         outline:none;
+        z-index:20;
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
@@ -335,6 +337,7 @@
         box-shadow:1px 1px 10px #ccc, -1px -1px 10px#ccc;
         padding:10px 20px;
         outline:none;
+        z-index:20;
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
@@ -427,6 +430,7 @@
         box-shadow:1px 1px 10px #ccc, -1px -1px 10px#ccc;
         padding:10px 20px;
         outline:none;
+        z-index:20;
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
@@ -519,6 +523,7 @@
         box-shadow:1px 1px 10px #ccc, -1px -1px 10px#ccc;
         padding:10px 20px;
         outline:none;
+        z-index:20;
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
@@ -611,6 +616,7 @@
         box-shadow:1px 1px 10px #ccc, -1px -1px 10px#ccc;
         padding:10px 20px;
         outline:none;
+        z-index:20;
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;
@@ -702,6 +708,7 @@
         box-shadow:1px 1px 10px #ccc, -1px -1px 10px#ccc;
         padding:10px 20px;
         outline:none;
+        z-index:20;
     }
     .contact-button-left-arrow{
         margin:10px 0 0 10px;

@@ -2,3 +2,1009 @@
     height:100vh;
     width:100%;
 }
+
+.contact-page-inner{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height:95vh;
+    width:100%;
+}
+
+
+.contact-page-card{
+    height:auto;
+    width:50vw;
+    background-color:#fff;
+    border-radius:10px;
+    box-sizing:border-box;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:50px;
+    padding-right:50px;
+    box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+}
+
+.contact-page-card-heading{
+    display:block;
+    font-family:"Poppins", sans-serif;
+    font-family:500;
+    font-size:40px;
+    line-height:40px;
+    color:#000;
+    text-align:center;
+}
+
+.contact-page-card-input{
+    height:40px;
+    width:100%;
+    background-color:#fff;
+    font-family:"Poppins", sans-serif;
+    font-size:20px;
+    line-height:40px;
+    color:#000;
+    font-weight:300;
+    margin-bottom:20px;
+    box-sizing:border-box;
+    border:2px solid #000;
+}
+
+.contact-page-card-dual-row{
+    height:auto;
+    width:100%;
+    display:flex;
+    box-sizing:border-box;
+    flex-direction:row;
+    justify-content: space-between;
+}
+
+.contact-page-card-input-dual{
+    height:40px;
+    width:46%;
+    background-color:#fff;
+    font-family:"Poppins", sans-serif;
+    font-size:20px;
+    line-height:40px;
+    color:#000;
+    font-weight:300;
+    margin-bottom:20px;
+    border:2px solid #000;
+}
+
+.contact-page-card-text-area{
+    height:80px;
+    width:100%;
+    background-color:#fff;
+    font-family:"Poppins", sans-serif;
+    font-size:20px;
+    line-height:40px;
+    color:#000;
+    font-weight:300;
+    margin-bottom:20px;
+    box-sizing:border-box;
+    border:2px solid #000;
+}
+
+.contact-page-card-button-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    height:auto;
+    width:100%;
+}
+
+.contact-page-submit-button{
+    height:45px;
+    width:150px;
+    background-color:#000;
+    font-family:"Poppins", sans-serif;
+    font-size:18px;
+    line-height:20px;
+    color:#fff;
+    font-weight:300;
+    box-sizing:border-box;
+    padding:10px;
+    outline:none;
+}
+
+@media only screen and (min-width:320px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:90vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        padding-right:20px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:35px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:30px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:12px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:30px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:12px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:75px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:12px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:40px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:14px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}
+
+@media only screen and (min-width:375px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:90vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        padding-right:20px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:35px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:30px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:14px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:30px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:14px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:75px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:14px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:40px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:14px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}
+
+@media only screen and (min-width:425px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:90vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        padding-right:20px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:35px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:35px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:35px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:75px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:40px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:15px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}
+
+@media only screen and (min-width:425px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:90vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:20px;
+        padding-right:20px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:35px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:35px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:35px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:75px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:40px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:15px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}
+
+
+@media only screen and (min-width:768px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:70vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:50px;
+        padding-right:50px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:35px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:35px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:35px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:75px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:40px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:15px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}
+
+@media only screen and (min-width:1024px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:50vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:50px;
+        padding-right:50px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:35px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:35px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:35px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:75px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:35px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:40px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:15px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}
+
+@media only screen and (min-width:1200px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:50vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:50px;
+        padding-right:50px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:40px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:40px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:20px;
+        line-height:40px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:40px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:20px;
+        line-height:40px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:80px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:20px;
+        line-height:40px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:45px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}
+
+@media only screen and (min-width:1440px){
+    .contact-page{
+        height:100vh;
+        width:100%;
+    }
+    
+    .contact-page-inner{
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        height:95vh;
+        width:100%;
+    }
+    
+    
+    .contact-page-card{
+        height:auto;
+        width:50vw;
+        background-color:#fff;
+        border-radius:10px;
+        box-sizing:border-box;
+        padding-top:20px;
+        padding-bottom:20px;
+        padding-left:50px;
+        padding-right:50px;
+        box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
+    }
+    
+    .contact-page-card-heading{
+        display:block;
+        font-family:"Poppins", sans-serif;
+        font-family:500;
+        font-size:40px;
+        line-height:40px;
+        color:#000;
+        text-align:center;
+    }
+    
+    .contact-page-card-input{
+        height:40px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:20px;
+        line-height:40px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-dual-row{
+        height:auto;
+        width:100%;
+        display:flex;
+        box-sizing:border-box;
+        flex-direction:row;
+        justify-content: space-between;
+    }
+    
+    .contact-page-card-input-dual{
+        height:40px;
+        width:46%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:20px;
+        line-height:40px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-text-area{
+        height:80px;
+        width:100%;
+        background-color:#fff;
+        font-family:"Poppins", sans-serif;
+        font-size:20px;
+        line-height:40px;
+        color:#000;
+        font-weight:300;
+        margin-bottom:20px;
+        box-sizing:border-box;
+        border:2px solid #000;
+    }
+    
+    .contact-page-card-button-container{
+        display:flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        height:auto;
+        width:100%;
+    }
+    
+    .contact-page-submit-button{
+        height:45px;
+        width:150px;
+        background-color:#000;
+        font-family:"Poppins", sans-serif;
+        font-size:18px;
+        line-height:20px;
+        color:#fff;
+        font-weight:300;
+        box-sizing:border-box;
+        padding:10px;
+        outline:none;
+    }
+}

@@ -787,7 +787,7 @@
         position:absolute;
         justify-content:flex-end;
         width:100%;
-        top:300px;
+        top:-300px;
         right:30px;
     }
     
@@ -806,7 +806,7 @@
     }
     
     .closer-portfolio{
-        top:-14vh!important;
+        top:-5vh!important;
     }
     
     }
