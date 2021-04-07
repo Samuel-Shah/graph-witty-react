@@ -463,7 +463,7 @@
       flex-direction:row;
       position:absolute;
       top:0%;
-      left:0%;
+      left:-5%;
       transform:translateX(0%) translateY(0%);
       height:480px;
       width:380px;
@@ -476,7 +476,7 @@
       flex-direction:row;
       position:absolute;
       top:0%;
-      left:0%;
+      left:-5%;
       transform:translateX(0%) translateY(0%);
       height:480px;
       width:380px;
