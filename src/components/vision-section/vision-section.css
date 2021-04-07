@@ -449,10 +449,10 @@
   .hover-card1{
       display:none;
       flex-direction:row;
-      position:relative;
-      top:0px;
-      left:0px;
-      transform:translateX(6%) translateY(-120%);
+      position:absolute;
+      top:0%;
+      left:0%;
+      transform:translateX(0%) translateY(0%);
       height:480px;
       width:380px;
       z-index:20;
@@ -666,10 +666,10 @@
   .hover-card1{
       display:none;
       flex-direction:row;
-      position:relative;
+      position:absolute;
       top:0%;
       left:0%;
-      transform:translateX(10%) translateY(-120%);
+      transform:translateX(0%) translateY(0%);
       height:480px;
       width:380px;
       z-index:20;
