@@ -12,7 +12,7 @@ function AboutCarousel() {
 
     function carouselNext() {
         for (var i = 0; i < document.getElementsByClassName('carousel-item').length; i++) {
-            if (selected == 3) {
+            if (selected == 1) {
                 break;
             }
             document.getElementsByClassName('carousel-item')[selected].style.display = "none";
