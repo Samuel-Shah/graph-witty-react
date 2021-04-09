@@ -132,8 +132,8 @@
         box-sizing:border-box;
         padding-top:20px;
         padding-bottom:20px;
-        padding-left:20px;
-        padding-right:20px;
+        padding-left:10px;
+        padding-right:10px;
         box-shadow: 2px 4px 10px rgba(143, 131, 131, 0.25)
     }
     
@@ -159,6 +159,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -172,7 +173,7 @@
     
     .contact-page-card-input-dual{
         height:30px;
-        width:46%;
+        width:43%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
         font-size:12px;
@@ -181,6 +182,7 @@
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -195,6 +197,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{
@@ -272,6 +275,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -285,7 +289,7 @@
     
     .contact-page-card-input-dual{
         height:30px;
-        width:46%;
+        width:43%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
         font-size:14px;
@@ -294,6 +298,7 @@
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -308,6 +313,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{
@@ -378,13 +384,14 @@
         width:100%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
-        font-size:18px;
+        font-size:17px;
         line-height:35px;
         color:#000;
         font-weight:300;
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -398,15 +405,16 @@
     
     .contact-page-card-input-dual{
         height:35px;
-        width:46%;
+        width:45%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
-        font-size:18px;
+        font-size:17px;
         line-height:35px;
         color:#000;
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -414,13 +422,14 @@
         width:100%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
-        font-size:18px;
+        font-size:17px;
         line-height:35px;
         color:#000;
         font-weight:300;
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{
@@ -491,13 +500,14 @@
         width:100%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
-        font-size:18px;
+        font-size:17px;
         line-height:35px;
         color:#000;
         font-weight:300;
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -511,15 +521,16 @@
     
     .contact-page-card-input-dual{
         height:35px;
-        width:46%;
+        width:44%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
-        font-size:18px;
+        font-size:17px;
         line-height:35px;
         color:#000;
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -527,13 +538,14 @@
         width:100%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
-        font-size:18px;
+        font-size:17px;
         line-height:35px;
         color:#000;
         font-weight:300;
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{
@@ -612,6 +624,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -625,7 +638,7 @@
     
     .contact-page-card-input-dual{
         height:35px;
-        width:46%;
+        width:45%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
         font-size:18px;
@@ -634,6 +647,7 @@
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -648,6 +662,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{
@@ -724,6 +739,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -737,7 +753,7 @@
     
     .contact-page-card-input-dual{
         height:35px;
-        width:46%;
+        width:45%;
         background-color:#fff;
         font-family:"Poppins", sans-serif;
         font-size:18px;
@@ -746,6 +762,7 @@
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -760,6 +777,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{
@@ -836,6 +854,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -858,6 +877,7 @@
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -872,6 +892,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{
@@ -948,6 +969,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-dual-row{
@@ -970,6 +992,7 @@
         font-weight:300;
         margin-bottom:20px;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-text-area{
@@ -984,6 +1007,7 @@
         margin-bottom:20px;
         box-sizing:border-box;
         border:2px solid #000;
+        padding-left:10px;
     }
     
     .contact-page-card-button-container{

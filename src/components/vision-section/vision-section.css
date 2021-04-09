@@ -223,10 +223,12 @@
   }
   
   .vision-points{
+      display:block;
+      text-align:center;
       font-family: "Montserrat", sans-serif;
       font-style: normal;
       font-weight: 500;
-      font-size: 12px;
+      font-size: 14px;
       line-height: 50px;
   }
   
@@ -439,10 +441,12 @@
   }
   
   .vision-points{
+      display:block;
+      text-align:center;
       font-family: "Montserrat", sans-serif;
       font-style: normal;
       font-weight: 500;
-      font-size: 14px;
+      font-size: 16px;
       line-height: 50px;
   }
   
@@ -656,10 +660,12 @@
   }
   
   .vision-points{
+      display:block;
+      text-align:center;
       font-family: "Montserrat", sans-serif;
       font-style: normal;
       font-weight: 500;
-      font-size: 14px;
+      font-size: 17px;
       line-height: 50px;
   }
   
@@ -746,7 +752,7 @@
   .hover-card{
       display:grid;
       place-items:center;
-      height:100%;
+      height:auto;
       width:100%;
       background-color:#FFF;
       border-radius:10px;

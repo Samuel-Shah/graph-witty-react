@@ -16,6 +16,11 @@ function WelcomeSection() {
             </div>
 
             <span className="welcome-text">Welcome</span>
+            <div className="static-contact-button-container">
+                <a href="/contact" className="static-contact-button-bg">
+                    <img src="/message.svg" className="static-contact-button" />
+                </a>
+            </div>
         </div>
     )
 }

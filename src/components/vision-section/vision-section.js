@@ -4,20 +4,32 @@ import './vision-section.css';
 function VisionSection() {
 
     function display1(e) {
+        document.getElementById("hover-card4").style.display = "none";
+        document.getElementById("hover-card3").style.display = "none";
+        document.getElementById("hover-card1").style.display = "none";
         document.getElementById("hover-card2").style.display = "flex"
     }
 
     function display2(e) {
         document.getElementById("hover-card1").style.display = "flex";
+        document.getElementById("hover-card2").style.display = "none";
+        document.getElementById("hover-card4").style.display = "none";
+        document.getElementById("hover-card3").style.display = "none";
     }
 
 
     function display3(e) {
         document.getElementById("hover-card3").style.display = "flex";
+        document.getElementById("hover-card2").style.display = "none";
+        document.getElementById("hover-card4").style.display = "none";
+        document.getElementById("hover-card1").style.display = "none";
     }
 
     function display4(e) {
         document.getElementById("hover-card4").style.display = "flex";
+        document.getElementById("hover-card2").style.display = "none";
+        document.getElementById("hover-card1").style.display = "none";
+        document.getElementById("hover-card3").style.display = "none";
     }
 
     function hide1(e) {
