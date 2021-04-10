@@ -61,9 +61,12 @@ function OurServicesSection() {
         document.getElementById("web-design-hover").style.display = "none";
     }
 
+
+    // MOBILE POPUP FUNCTION BEGIN HERE
+
     function showMobileWebDev(e) {
         document.getElementById("web-dev-popup").style.display = "flex";
-        document.getElementById("web-design-hover").style.display = "none";
+        document.getElementById("web-design-hover").style.display = "none";//this is the hover class id  tried making it none
     }
 
     function hideMobileWebDev(e) {
@@ -146,6 +149,9 @@ function OurServicesSection() {
                                 </div>
                             </div>
                         </div>
+
+                        {/* MOBILE POPUPS BEGIN HERE */}
+
                         <div className="services-popup-card1" id="web-design-popup">
                             <div className="service-mobile-popup-close-container">
                                 <img src="/close-icon.svg" className="close-icon" onClick={e => { e.preventDefault(); hideMobileWebDes(e) }} />

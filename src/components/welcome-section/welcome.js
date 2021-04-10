@@ -16,6 +16,9 @@ function WelcomeSection() {
             </div>
 
             <span className="welcome-text">Welcome</span>
+            <span className="welcome-scroll-container">
+                <img src="/arrow-down.gif" className="scroll-down-gif" />
+            </span>
             <div className="static-contact-button-container">
                 <a href="/contact" className="static-contact-button-bg">
                     <img src="/message.svg" className="static-contact-button" />
