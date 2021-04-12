@@ -5,7 +5,7 @@ import './contact-section.css';
 function ContactSection() {
     return (
         <>
-            <div className="contact-section">
+            <div className="contact-section" id="contact-us">
                 <div className="heading-container">
                     <span className="contact-bg-opaque-heading"><i>Contact</i></span>
                 </div>

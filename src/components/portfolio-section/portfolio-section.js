@@ -5,7 +5,7 @@ import './portfolio-section.css';
 function PortfolioSection() {
     return (
         <>
-            <div className="landing-portfolio-section" id="portfolio">
+            <div className="landing-portfolio-section" id="landing-portfolio-section">
                 <div className="portfolio-section-heading-container">
                     <span className="portfolio-bg-opaque-heading"><i>Portfolio</i></span>
                 </div>

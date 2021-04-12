@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
     background-size: 100vw;
     scroll-snap-align: center;
+    position:relative;
 }
 
 .nav-container {
@@ -23,6 +24,38 @@
     width: 80px;
 }
 
+.nav-logo1 {
+    display:flex;
+    width: 130px;
+    height:50px;
+}
+
+.welcome-scroll-text{
+    display:block;
+    text-align: center;
+    font-size:25px;
+    width:100%;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing:1px;
+}
+
+.welcome-scroll-container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    width:100%;
+    height:10vh;
+    position:absolute;
+    bottom:10vh;
+}
+
+.scroll-down-gif{
+    height:80px;
+    width:80px;
+    transform:rotate(180deg);
+}
+
 .nav-menu-container {
     display: flex;
     flex-direction: row;
@@ -37,6 +70,7 @@
     color: #000;
     font-size: 20px;
     padding-left: 50px;
+    text-decoration:none;
 }
 
 
@@ -51,11 +85,26 @@
         padding-right: 0px;
         justify-content: center;
     }
+
+    
+    .logo-container{
+        display:flex;
+        flex-direction:column;
+    }
+
     .nav-logo {
         height: 300px;
         width: 300px;
         transform:translateX(0vw)translateY(25vh);
     }
+
+    .nav-logo1{
+        display:flex;
+        position:absolute;
+        top:5vh;
+        left:2vw;
+    }
+    
     .nav-menu-container {
         display: flex;
         flex-direction: row;
@@ -80,19 +129,7 @@
         margin:150px auto 0 auto;
     }
 
-    .welcome-scroll-container{
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        width:100%;
-        height:10vh;
-        margin:-160px auto 0 auto;
-    }
-
-    .scroll-down-gif{
-        height:80px;
-        width:80px;
-    }
+    
     .welcome-section {
         background-image: url('iPhone 12, 12 Pro – e.png');
         background-repeat: no-repeat;
@@ -142,11 +179,25 @@
         padding-right: 0px;
         justify-content: center;
     }
+    
+    .logo-container{
+        display:flex;
+        flex-direction:column;
+    }
+
     .nav-logo {
         height: 300px;
         width: 300px;
         transform:translateX(0vw)translateY(30vh);
     }
+
+    .nav-logo1{
+        display:flex;
+        position:absolute;
+        top:5vh;
+        left:2vw;
+    }
+   
     .nav-menu-container {
         display: flex;
         flex-direction: row;
@@ -171,19 +222,7 @@
         margin:150px auto 0 auto;
     }
 
-    .welcome-scroll-container{
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        width:100%;
-        height:10vh;
-        margin:-160px auto 0 auto;
-    }
-
-    .scroll-down-gif{
-        height:80px;
-        width:80px;
-    }
+    
     .welcome-section {
         background-image: url('iPhone 12, 12 Pro – e.png');
         background-repeat: no-repeat;
@@ -234,14 +273,28 @@
         padding-right: 0px;
         justify-content: center;
     }
+
+    .logo-container{
+        display:flex;
+        flex-direction:column;
+    }
+
     .nav-logo {
         height: 300px;
         width: 300px;
         transform:translateX(0vw)translateY(35vh);
     }
+
+    .nav-logo1{
+        display:flex;
+        position:absolute;
+        top:5vh;
+        left:2vw;
+    }
+    
     .nav-menu-container {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         height: 10px;
         width: 60%;
         justify-content: flex-end;
@@ -263,19 +316,7 @@
         margin:-150px auto 0 auto;
     }
 
-    .welcome-scroll-container{
-        display:flex;
-        align-items:center;
-        justify-content:center;
-        width:100%;
-        height:10vh;
-        margin:-160px auto 0 auto;
-    }
-
-    .scroll-down-gif{
-        height:80px;
-        width:80px;
-    }
+   
     .welcome-section {
         background-image: url('iPhone 12, 12 Pro – e.png');
         background-repeat: no-repeat;
@@ -320,25 +361,41 @@
         display: flex!important;
         height: auto!important;
         width: auto!important;
+        box-sizing:border-box;
         padding-top: 20px;
         padding-bottom: 20px;
         padding-left: 40px;
         padding-right: 50px;
         justify-content: space-between!important;
+
     }
     .nav-logo {
         height: 80px;
         width: 80px;
         transform:none!important;
     }
+    .nav-logo1{
+        display:flex;
+        position:relative!important;
+        top:0;
+        left:0;
+    }
+    .logo-container{
+        display:flex;
+        flex-direction:row!important;
+        width:auto;
+        justify-content: center;
+        align-items: center;
+    }
     .nav-menu-container {
-        display: flex;
+        display: flex!important;
         flex-direction: row;
-        height: 10px;
+        height: auto;
         width: 60%;
         justify-content: flex-end;
     }
     .nav-menu-items {
+        display:block!important;
         font-family: "Roboto", sans-serif;
         font-weight: 400;
         color: #000;
@@ -354,9 +411,7 @@
         margin:50px auto 0 auto;
     }
 
-    .welcome-scroll-container{
-        display:none!important;
-    }
+    
     .welcome-section {
         background-image: url('section1-bg.jpg');
         width: auto;
@@ -415,7 +470,7 @@
     .nav-menu-container {
         display: flex;
         flex-direction: row;
-        height: 10px;
+        height: auto;
         width: 60%;
         justify-content: flex-end;
     }
@@ -442,6 +497,10 @@
         background-repeat: no-repeat;
         background-size: 100vw;
         scroll-snap-align: center;
+    }
+
+    .welcome-scroll-container{
+        bottom:5vh;
     }
     .static-contact-button-container{
         display:flex;
@@ -493,11 +552,12 @@
     .nav-menu-container {
         display: flex;
         flex-direction: row;
-        height: 10px;
+        height: auto;
         width: 60%;
         justify-content: flex-end;
     }
     .nav-menu-items {
+        display:block;
         font-family: "Roboto", sans-serif;
         font-weight: 400;
         color: #000;
@@ -571,11 +631,12 @@
     .nav-menu-container {
         display: flex;
         flex-direction: row;
-        height: 10px;
+        height: auto;
         width: 40%;
         justify-content: flex-end;
     }
     .nav-menu-items {
+        display:block;
         font-family: "Roboto", sans-serif;
         font-weight: 400;
         color: #000;

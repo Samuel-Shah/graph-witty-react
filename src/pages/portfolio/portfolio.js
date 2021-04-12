@@ -256,45 +256,9 @@ function Portfolio() {
 
                         </div>
 
-                        <div className="portfolio-section" onMouseMove={e => { initTilt(e) }} onMouseLeave={tilt(window.innerWidth / 2, window.innweHeight / 2)}>
-                            <div className="portfolio-section-inner">
-                                <div className="portfolio-section-about">
-                                    <span className="portfolio-section-text">The Culinary Lounge is a pioneer in corporate cook-offs as a team bonding activity, hand holding classes led by expert chefs and premium experiential dining. We support this brand to market their exclusive services on social media channels to a varied range of target audience.
-                    </span>
-                                </div>
-                                <img className="portfolio-image" src="TCL.jpg" />
-                                <span className="portfolio-title">The Culinary Lounge</span>
-                                <span className="portfolio-description">Digital Marketing</span>
-                                <div className="social-links">
-                                    <div class="vertical-line-one"></div>
-                                    <div class="vertical-line-two"></div>
-                                    <a href="https://www.facebook.com/TheCulinaryLounge" target="_blank"><img class="facebook-logo" src="fb.png" alt="" /></a>
-                                    <a href="https://www.instagram.com/theculinarylounge/" target="_blank"><img class="instagram-logo" src="ig.png" alt="" /></a>
-                                    {/* <img class="linkedin-logo" src="li.png" alt="" /> */}
-                                </div>
-                            </div>
+                        
 
-                        </div>
-
-                        <div className="portfolio-section" onMouseMove={e => { initTilt(e) }} onMouseLeave={tilt(window.innerWidth / 2, window.innweHeight / 2)}>
-                            <div className="portfolio-section-inner">
-                                <div className="portfolio-section-about">
-                                    <span className="portfolio-section-text">Tamanna Rooz is one of the best in country make up artists with her niche in bridal and celebrity makeovers. With a good audience on her social media platforms, we help with responsible marketing campaigns to talk about her best practices, her work and engage the audience with her take on various brands of cosmetics.
-                    </span>
-                                </div>
-                                <img className="portfolio-image" src="tms.jpg" />
-                                <span className="portfolio-title">Tamanna Make Up Studio & Academy</span>
-                                <span className="portfolio-description">Digital Marketing</span>
-                                <div className="social-links">
-                                    <div class="vertical-line-one"></div>
-                                    <div class="vertical-line-two"></div>
-                                    <a href="" target="_blank"><img class="facebook-logo" src="fb.png" alt="" /></a>
-                                    <a href="https://www.instagram.com/makeupartisttamanna/" target="_blank"><img class="instagram-logo" src="ig.png" alt="" /></a>
-                                    {/* <img class="linkedin-logo" src="li.png" alt="" /> */}
-                                </div>
-                            </div>
-
-                        </div>
+                        
 
                         <div className="portfolio-section" onMouseMove={e => { initTilt(e) }} onMouseLeave={tilt(window.innerWidth / 2, window.innweHeight / 2)}>
                             <div className="portfolio-section-inner">
