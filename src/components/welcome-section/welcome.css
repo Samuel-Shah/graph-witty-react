@@ -390,6 +390,7 @@
     .nav-menu-container {
         display: flex!important;
         flex-direction: row;
+        align-items:center;
         height: auto;
         width: 60%;
         justify-content: flex-end;
@@ -472,12 +473,14 @@
         flex-direction: row;
         height: auto;
         width: 60%;
+        align-items:center;
         justify-content: flex-end;
     }
     .nav-menu-items {
         font-family: "Roboto", sans-serif;
         font-weight: 400;
         color: #000;
+        
         font-size: 16px;
         padding-left: 50px;
     }
@@ -554,6 +557,7 @@
         flex-direction: row;
         height: auto;
         width: 60%;
+        align-items:center;
         justify-content: flex-end;
     }
     .nav-menu-items {
@@ -633,6 +637,7 @@
         flex-direction: row;
         height: auto;
         width: 40%;
+        align-items:center;
         justify-content: flex-end;
     }
     .nav-menu-items {
